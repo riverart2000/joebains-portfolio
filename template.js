@@ -8,6 +8,15 @@ Handlebars.registerHelper("times", function (n, block) {
   return accum;
 });
 
+// Register helper for conditional content
+Handlebars.registerHelper("if_eq", function(a, b, opts) {
+  if (a == b) {
+    return opts.fn(this);
+  } else {
+    return opts.inverse(this);
+  }
+});
+
 // Read the template
 const templateSource = fs.readFileSync("template.hbs", "utf8");
 const template = Handlebars.compile(templateSource);
@@ -22,3 +31,4 @@ const compiledHtml = template(data);
 fs.writeFileSync("index.html", compiledHtml);
 
 console.log("HTML file generated successfully!");
+console.log("Template compiled with data from template.json");

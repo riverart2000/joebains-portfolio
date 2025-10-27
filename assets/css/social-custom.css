@@ -1,68 +1,33 @@
-/* Custom Background Image Styling */
-.rs-banner-bg[data-background="assets/images/bg/Joe BainsBG.jpeg"] {
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-  opacity: 0.3 !important;
-  z-index: 1 !important;
-}
-
-.rs-banner-bg.bg-black {
-  opacity: 0.4 !important;
-  z-index: 2 !important;
-}
-
-/* Custom Social Media Styling */
-.offcanvas-social ul {
+/* Social Media Icons Styling */
+.rs-social-list {
   display: flex;
-  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
   gap: 15px;
-  list-style: none;
-  padding: 0;
-  margin: 15px 0;
+  margin-top: 20px;
 }
 
-.offcanvas-social ul li {
-  display: inline-block;
-}
-
-.offcanvas-social ul li a {
+.rs-social-list li a {
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 40px;
-  height: 40px;
-  background: #428dff;
-  color: white;
-  border-radius: 50%;
   text-decoration: none;
-  transition: all 0.3s ease;
-  font-size: 18px;
 }
 
-.offcanvas-social ul li a:hover {
-  background: #2c5aa0;
+.rs-social-list li a:hover {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.4);
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-}
-
-.rs-footer-social {
-  margin-top: 20px;
-  text-align: center;
-}
-
-.footer-social-title {
-  color: white;
-  font-size: 18px;
-  margin-bottom: 15px;
-  font-weight: 600;
-}
-
-.offcanvas-title-meta {
-  color: #333;
-  font-size: 18px;
-  margin-bottom: 15px;
-  font-weight: 600;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
 }
 
 /* Footer Social Icons - Bigger and Spread Out */
@@ -124,215 +89,6 @@
   }
 }
 
-/* Contact Section Title - Make Smaller */
-.rs-contact-area .rs-section-title {
-  font-size: 24px !important;
-  line-height: 1.4 !important;
-}
-
-/* Contact Form Styling */
-.contact-form-container {
-  background: rgba(255, 255, 255, 0.05);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: 15px;
-  padding: 40px;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-}
-
-.contact-form-container h4 {
-  color: #fff !important;
-  margin-bottom: 15px;
-  font-size: 28px;
-  font-weight: 700;
-}
-
-.contact-form-container p {
-  color: rgba(255, 255, 255, 0.9) !important;
-  margin-bottom: 30px;
-  font-size: 16px;
-}
-
-/* Clean Contact Form Styling */
-#contactForm {
-  max-width: 100%;
-}
-
-.form-row {
-  display: flex;
-  gap: 20px;
-  margin-bottom: 20px;
-}
-
-.form-group {
-  flex: 1;
-  margin-bottom: 20px;
-}
-
-.form-group label {
-  display: block;
-  color: #fff !important;
-  font-weight: 600;
-  margin-bottom: 8px;
-  font-size: 14px;
-}
-
-.form-group input,
-.form-group select,
-.form-group textarea {
-  width: 100%;
-  padding: 15px;
-  border: 2px solid #ddd;
-  border-radius: 8px;
-  background: #ffffff;
-  color: #333333;
-  font-size: 16px;
-  font-family: inherit;
-  transition: border-color 0.3s ease;
-}
-
-.form-group input:focus,
-.form-group select:focus,
-.form-group textarea:focus {
-  outline: none;
-  border-color: #5777FF;
-  box-shadow: 0 0 0 3px rgba(87, 119, 255, 0.1);
-}
-
-.form-group textarea {
-  resize: vertical;
-  min-height: 120px;
-}
-
-.submit-btn {
-  background: #5777FF;
-  color: white;
-  border: none;
-  padding: 15px 30px;
-  border-radius: 8px;
-  font-size: 16px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-.submit-btn:hover {
-  background: #4a6bff;
-}
-
-.contact-form-container h4 {
-  color: #fff;
-  margin-bottom: 15px;
-  font-size: 28px;
-  font-weight: 700;
-}
-
-.contact-form-container p {
-  color: rgba(255, 255, 255, 0.8);
-  margin-bottom: 30px;
-  font-size: 16px;
-}
-
-.rs-form-group {
-  margin-bottom: 25px;
-}
-
-.rs-form-group label {
-  display: block;
-  color: #fff;
-  font-weight: 600;
-  margin-bottom: 8px;
-  font-size: 14px;
-}
-
-.rs-form-group input,
-.rs-form-group select,
-.rs-form-group textarea {
-  width: 100%;
-  padding: 15px 20px;
-  border: 2px solid rgba(255, 255, 255, 0.3);
-  border-radius: 10px;
-  background: rgba(255, 255, 255, 0.9);
-  color: #333;
-  font-size: 16px;
-  transition: all 0.3s ease;
-  backdrop-filter: blur(10px);
-}
-
-.rs-form-group input:focus,
-.rs-form-group select:focus,
-.rs-form-group textarea:focus {
-  outline: none;
-  border-color: var(--rs-theme-primary, #5777FF);
-  background: rgba(255, 255, 255, 1);
-  box-shadow: 0 0 0 3px rgba(87, 119, 255, 0.1);
-}
-
-.rs-form-group input::placeholder,
-.rs-form-group textarea::placeholder {
-  color: rgba(51, 51, 51, 0.6);
-}
-
-.rs-form-group select {
-  cursor: pointer;
-}
-
-.rs-form-group select option {
-  background: #fff;
-  color: #333;
-}
-
-.rs-form-group textarea {
-  resize: vertical;
-  min-height: 120px;
-}
-
-.contact-info {
-  margin-top: 20px;
-  text-align: center;
-}
-
-.contact-info p {
-  color: rgba(255, 255, 255, 0.6);
-  font-size: 14px;
-  margin: 0;
-}
-
-/* Form button styling */
-.rs-contact-btn .rs-btn {
-  width: 100%;
-  padding: 18px 30px;
-  font-size: 16px;
-  font-weight: 600;
-  border-radius: 10px;
-  transition: all 0.3s ease;
-  position: relative;
-  overflow: hidden;
-}
-
-.rs-contact-btn .rs-btn:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 30px rgba(87, 119, 255, 0.3);
-}
-
-/* Responsive form adjustments */
-@media (max-width: 768px) {
-  .contact-form-container {
-    padding: 30px 20px;
-  }
-  
-  .contact-form-container h4 {
-    font-size: 24px;
-  }
-  
-  .rs-form-group input,
-  .rs-form-group select,
-  .rs-form-group textarea {
-    padding: 12px 15px;
-    font-size: 14px;
-  }
-}
-
 /* Green Theme Color Scheme */
 body.theme-green {
   --rs-theme-primary: #008D84 !important;
@@ -348,14 +104,16 @@ body.theme-green .rs-btn.has-color:hover {
 }
 
 body.theme-green .rs-header-area .main-menu ul li.active > a,
-body.theme-green .rs-header-area .main-menu ul li a.active {
+body.theme-green .rs-header-area .main-menu ul li:hover > a,
+body.theme-green .rs-header-area .main-menu ul li.has-dropdown.active > a,
+body.theme-green .rs-header-area .main-menu ul li.has-dropdown:hover > a {
   color: var(--rs-theme-primary) !important;
 }
 
 /* Orange Theme Color Scheme */
 body.theme-orange {
-  --rs-theme-primary: #FF7140 !important;
-  --rs-hover-primary: #ff5a1f !important;
+  --rs-theme-primary: #FF6B35 !important;
+  --rs-hover-primary: #e55a2b !important;
 }
 
 body.theme-orange .rs-btn.has-color {
@@ -367,12 +125,8 @@ body.theme-orange .rs-btn.has-color:hover {
 }
 
 body.theme-orange .rs-header-area .main-menu ul li.active > a,
-body.theme-orange .rs-header-area .main-menu ul li a.active {
+body.theme-orange .rs-header-area .main-menu ul li:hover > a,
+body.theme-orange .rs-header-area .main-menu ul li.has-dropdown.active > a,
+body.theme-orange .rs-header-area .main-menu ul li.has-dropdown:hover > a {
   color: var(--rs-theme-primary) !important;
-}
-
-/* Active state styling for color theme buttons */
-.rs-theme-color-btn.active {
-  transform: scale(1.1);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.3) !important;
 }

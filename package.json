@@ -1,5 +1,19 @@
 {
+  "name": "blank-website-template",
+  "version": "1.0.0",
+  "description": "A blank template for creating any website frontend using Handlebars.js",
+  "main": "template.js",
+  "scripts": {
+    "build": "node template.js",
+    "dev": "node template.js && http-server -p 8080"
+  },
   "dependencies": {
     "handlebars": "^4.7.8"
-  }
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "keywords": ["template", "website", "frontend", "handlebars"],
+  "author": "Your Name",
+  "license": "MIT"
 }
