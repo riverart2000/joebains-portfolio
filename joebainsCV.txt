@@ -1,0 +1,266 @@
+Joe Bains
+Implementation Engineer / Technical Solutions Specialist /
+Linux Admin / DBA / Linux Trainer
+London, UK
++447834963875
+biohackerjoe@gmail.com
+Full clean driving licence & British Citizen
+Professional Summary
+Senior Implementation Engineer with 15+ years of expertise in technical solutions delivery
+across telecommunications, healthcare, and enterprise environments. Specializing in complex
+system integrations, SDK/API implementations, and client onboarding. Advanced Toastmaster
+and former SC-cleared professional combining deep technical knowledge with exceptional
+communication skills. Proven track record in streamlining deployment processes, resolving
+critical issues, and building strong client relationships. Linux Trainer for Learningtree
+International
+Core Technical Skills
+Cloud & Infrastructure
+●
+●
+●
+●
+AWS Cloud (Certified Cloud Practitioner
+CLF-C02)
+Docker, Kubernetes, Openshift, Terraform
+VMware ESX/ESXi
+Git, SVN, Version Control
+Databases & Systems
+●
+●
+●
+●
+MySQL, Oracle, Sybase
+Linux (RedHat, Ubuntu, CentOS)
+Solaris Administration
+Apache
+Programming & Development
+●
+●
+●
+●
+Python (DevOps, Data Science)
+Java, JavaScript
+Perl, Shell Scripting
+API/SDK Integration
+DevOps & Monitoring
+●
+●
+●
+CI/CD Pipeline Implementation
+Nagios, Centreon, Check
+MK
+_
+F5 BigIP Load Balancing
+Professional Experience
+Solutions & Migrations Engineer (Jan 2016 – Present) Professional Cosmetic Surgery |
+Healthcare
+●
+●
+●
+●
+●
+Architected and implemented secure healthcare systems infrastructure
+Managed mission-critical database operations and security compliance
+Developed custom solutions for patient data management and reporting
+Provided technical leadership for infrastructure modernization projects
+Technologies: Linux (Redhat, Debian), Python, AWS Cloud, Java, Apache, Postfix,
+JavaScript, MySQL, HTML/CSS, SVN, Perl, Shell Scripting, Firewall, Networks, Nagios,
+SMTP, MongoDB
+Cloud Solutions Consultant (Jan 2024 – June 2024) dlexia.com | Mental Health Industry
+●
+●
+●
+●
+Led cloud migration initiatives using AWS, Docker, and Kubernetes
+Designed and implemented optimized infrastructure solutions
+Developed Python-based automation for deployment processes
+Established best practices for cloud resource management and security
+Linux / OpenStack DevOps Engineer (Mar 2014 – Jan 2015) Cloudlynx AG | Cloud Startup,
+Basel, Switzerland
+●
+●
+●
+●
+●
+Spearheaded complete cloud infrastructure implementation from ground up
+Implemented comprehensive monitoring and alerting systems
+Designed and deployed encrypted communication channels
+Managed beta software integration and testing
+Technologies: Linux Redhat, CentOS, VMware ESX, ESXi, Java, Apache, MySQL,
+Tomcat, Nagios, Check
+_
+MK, Munin, Puppet, SVN, Shell, Perl, Python, F5 BigIP Load
+Balancer
+Linux Administrator/Engineer (Oct 2013 – Feb 2014) Swisscom | Telecommunications
+●
+●
+●
+●
+●
+Led system administration and engineering initiatives
+Implemented automated deployment solutions
+Managed high-availability infrastructure
+Developed monitoring and maintenance protocols
+Technologies: Linux Redhat, CentOS, VMware ESX, ESXi, Java, Apache, MySQL,
+Tomcat, Nagios, Check
+_
+MK, Munin, Puppet, SVN, Shell, Perl, Python, F5 BigIP Load
+Balancer
+Build Engineer (Feb 2012 – Sep 2013) BSKYB | Broadcasting
+●
+●
+Managed build and deployment processes for broadcast systems
+Implemented automated testing and deployment pipelines
+●
+●
+●
+Coordinated with cross-functional teams for release management
+Maintained CDN and video streaming infrastructure
+Technologies: Linux Redhat, CentOS, VMware ESX, ESXi, Java, Apache, MySQL,
+Tomcat, Centreon, Nagios, Puppet, SVN, Shell, Perl, Python, Windows Server
+2003-2008
+Unix Network Administrator (June 2011 – Feb 2012) Game.co.uk | Games Industry
+●
+●
+●
+Managed Unix/Linux environments and network infrastructure
+Implemented monitoring and automation solutions
+Technologies: Linux Redhat, CentOS, Solaris 10, VMware ESX, ESXi, Java, Apache,
+MySQL, Jboss, Websphere MQ V7, Centreon, Puppet, SVN, Shell, Perl
+Unix Network Administrator (Oct 2010 – May 2011) Everything Everywhere (T-Mobile) |
+Telecommunications
+●
+●
+●
+Managed Unix systems and network infrastructure
+Implemented automation and backup solutions
+Technologies: Linux Redhat, Solaris 10, VMware ESX, ESXi, Windows 2003 Server,
+Citrix, Nagios, HP Opsware, Java, Apache, VBScript, Perl/Bash scripting, NetBackup
+6.5/7.0
+Solutions & Migrations Engineer (June 2010 – Oct 2010) Prof. Cosmetic Surgery/Medical
+Park Chennai, India | Healthcare
+●
+●
+●
+Led solutions implementation and system migrations
+Managed security and database administration
+Technologies: Linux (Redhat, Debian), Java, Apache, Postfix, JavaScript, MySQL,
+HTML/CSS, SVN, Perl, Shell scripting, Firewall, Networks, Nagios, SMTP, MongoDB
+Solutions Engineer (Jan 2007 – April 2010) Vodafone Global | Telecommunications
+●
+●
+●
+Led application deployments and system integrations
+Managed Unix network administration
+Technologies: Solaris 10, JBOSS, JavaScript, MySQL, Oracle 9i/10g, HTML/CSS, SVN,
+CVS, ANT, Eclipse, Perl, Shell scripting, Networks, DiskSuite, Veritas, SAN, VCS
+Technical Environment Manager (Aug 2006 – Dec 2006) EDS | Public Sector
+●
+●
+●
+Managed technical environments and Unix administration
+Implemented system integrations and database solutions
+Technologies: Solaris 10, Tibco, JBOSS, JavaScript, MySQL, Oracle 10g, Oracle
+Application Server, SVN, CVS, Perl, Shell scripting, Networks, IBM MQ, Business
+Objects
+IT Consultant (Feb 2005 - Jul 2006) Professional Cosmetic Surgery | Healthcare
+●
+●
+●
+Provided IT consulting and Unix network engineering
+Implemented system solutions and database management
+Technologies: Solaris, Linux, Windows, Zimbra, Samba, Apache, Volume Manager,
+Solstice DiskSuite, Perl, MySQL, PostgreSQL
+Unix Network Administrator (Aug 2003 - Jan 2005) O2 | Telecommunications
+●
+●
+●
+Managed Unix systems and application integration
+Implemented security and storage solutions
+Technologies: N-Tier Systems, Oracle, Vignette, Sybase, Critical Path Invoke SMS
+server, Apache, Veritas Volume Manager, SAN, NAS, Sun Cluster
+Applications Integrator (Aug 2002 - Aug 2003) Cap Gemini | IT Consultancy
+●
+●
+●
+Led application integration projects
+Managed solutions engineering initiatives
+Technologies: Oracle, N-Tier Systems, CriticalPath Invoke SMS server, Apache,
+WebLogic, Veritas Volume Manager
+Applications Integrator (May 2001 - Aug 2002) Genie / BTCellnet | Telecommunications
+●
+●
+●
+Managed application integration and Unix administration
+Implemented system solutions and security measures
+Technologies: N-Tier Systems, Oracle, Openwave WAP Portal, Vignette, Sybase,
+CriticalPath Invoke SMS server, Apache
+Applications Integrator (Oct 2000 - May 2001) BT Syncordia Solutions |
+Telecommunications
+●
+●
+●
+Led application integration and change management
+Managed Unix administration and system security
+Technologies: Oracle, Vignette, Sybase, CriticalPath Invoke SMS server, Apache,
+Veritas Volume Manager
+Unix Network Administrator (Jan 2000 - Oct 2000) altodigital.com | Dot-Com
+●
+●
+●
+Managed Unix networks and Sybase database administration
+Implemented system and security solutions
+Technologies: Sybase, Apache, Solstice DiskSuite, Pix Firewall, Perl, Solaris, ProFTP,
+Samba
+UNIX Consultant (Oct 1998 - Dec 2000) BTCellnet | Telecommunications
+●
+●
+Provided Unix consulting and system administration
+Managed application integration and infrastructure
+●
+Technologies: Oracle, Apache, Veritas, Perl, Remedy/Ears, Solstice DiskSuite, Solaris,
+HPUX
+Recent Certifications & Professional Development
+AI & Machine Learning
+- Text Embeddings Mastery (2024)
+- ChatGPT Developer Program Certification
+- Langchain Certification for LLM Development
+- Data Conversationalist via Langchain
+Business & Digital Marketing
+- Systeme.io Certification (Sales Funnels, Email
+Campaigns)
+- Level 3 Certificate Social Media For
+E-Commerce
+- Audio and Video Editing Certification
+- Radio and Podcast Production
+Cloud & DevOps
+- AWS Certified Cloud Practitioner CLF-C02
+(2024)
+- Linux and Bash for Data Engineering
+- Python Scripting for DevOps
+- IBM DevOps Certification
+- Docker training
+- Redhat Openshift
+Level 3 Education and Training (AET PTLLS)
+Linux Trainer for Learning Tree International
+Advanced Member of Toastmasters International
+Training & Leadership Experience
+---------------------
+- Developed and delivered application training for
+Vodafone's European pricing tool
+- Designed and conducted Linux training programs at IT
+Training Centre
+- Led confidence-building and technical workshops across
+UK and Switzerland
+- Created and managed successful comedy shows and
+events in London
+- Conducted health and wellness workshops at major
+festivals
+Additional Skills & Activities
+---------------------
+- Advanced Public Speaking (Toastmaster)
+- Event Management and MC
+- Video Production & Editing
+- Professional Tour Guide (London)
+- Health & Wellness Coaching
+- Professional Juggling Instructor
